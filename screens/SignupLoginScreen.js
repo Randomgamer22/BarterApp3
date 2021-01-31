@@ -7,6 +7,7 @@ import {
   TouchableOpacity,
   KeyboardAvoidingView,
   Image,
+  Modal,
   Alert,
   ScrollView,
 } from 'react-native';
